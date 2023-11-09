@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Victor</h1>
 <h3 align="center">A (soon to be) full-stack developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victorxph&label=Profile%20views&color=#9745F5&style=flat" alt="victorxph" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=victorxph&label=Profile%20views&color=9745F5&style=flat" alt="victorxph" /> </p>
 
 <p>
     🌱 I've been following <a href="https://www.theodinproject.com/" target="_blank" rel="external">The Odin Project</a> curriculum which is an open source project based course, along with the Systems Analysis and Development course in <a href="https://www.uninove.br/" target="blank" rel="external">college</a>.
