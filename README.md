@@ -8,7 +8,7 @@
 </p>
 
 <p>
-    After building some web apps with vanilla HTML, CSS and JavaScript, i'm currently focusing on client side technologies such as React, Tailwind and SASS.
+    After building some web apps with vanilla HTML, CSS and JavaScript, i'm currently focusing on client-side technologies such as React, Tailwind and SASS.
 </p>
 
 <div align="center" style=""><br>
