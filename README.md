@@ -20,6 +20,8 @@
     <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" alt="Arch" height="15" width="15" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg">
+    <img align="center" alt="Ubuntu" height="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
     <img align="center" alt="Bash" height="30" width="30" src="https://img.icons8.com/fluency/30/bash.png">
     <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
@@ -35,6 +37,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorxph&theme=midnight-purple&layout=donut" />
 </a>
 </p>
+
+<div>
+        
+</div>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
