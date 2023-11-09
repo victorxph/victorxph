@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorxph&label=Profile%20views&color=0e75b6&style=flat" alt="victorxph" /> </p>
 
 <p>
-    🌱 I've been following <a href="https://www.theodinproject.com/" target="_blank" rel="external">The Odin Project</a> curriculum which is an open source project based course, along with the Systems Analysis and Development course in <a href="https://www.uninove.br/">college</a>.
+    🌱 I've been following <a href="https://www.theodinproject.com/" target="_blank" rel="external">The Odin Project</a> curriculum which is an open source project based course, along with the Systems Analysis and Development course in <a href="https://www.uninove.br/" target="blank" rel="external">college</a>.
 </p>
 
 <p>
