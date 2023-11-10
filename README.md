@@ -9,9 +9,9 @@
     🌱 I've been following <a href="https://www.theodinproject.com/" target="_blank" rel="external">The Odin Project</a> curriculum which is an open source project based course, along with the Systems Analysis and Development course in <a href="https://www.uninove.br/" target="blank" rel="external">college</a>.
 </p>
 
-<p>
-    After building some web apps with vanilla HTML, CSS and JavaScript, i'm currently focusing on client-side technologies such as React, Tailwind and SASS.
-</p>
+
+- After building some web apps with vanilla HTML, CSS and JavaScript, i'm currently focusing on client-side technologies such as React, Tailwind and SASS.
+
 
 <div align="center" style=""><br><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
