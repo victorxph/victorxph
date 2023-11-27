@@ -39,6 +39,6 @@
 <br>
 
 
-<p align="left">
+<p align="right">
     <a href="https://www.linkedin.com/in/victor-raphael-66268a205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white&color=7e23ed" target="_blank"></a> 
 </p>
