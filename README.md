@@ -32,9 +32,12 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorxph&theme=midnight-purple&layout=donut&hide_progress=true&card_width=100%" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorxph&theme=midnight-purple&hide_progress=true&card_width=100px" />
 </a>
 </p>
+
+<br>
+
 
 <p align="left">
     <a href="https://www.linkedin.com/in/victor-raphael-66268a205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white&color=7e23ed" target="_blank"></a> 
