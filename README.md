@@ -28,11 +28,11 @@
 ##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=victorxph&theme=midnight-purple&show&icons=true" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=victorxph&theme=midnight-purple&show&icons=true&rank_icon=github" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorxph&theme=midnight-purple" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorxph&theme=midnight-purple&layout=donut" />
 </a>
 </p>
 
