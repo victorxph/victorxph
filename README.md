@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorxph&theme=midnight-purple&layout=donut" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorxph&theme=midnight-purple&layout=donut&hide_progress=true" />
 </a>
 </p>
 
