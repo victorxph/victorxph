@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorxph&label=Profile%20views&color=7e23ed&style=flat" alt="victorxph" /> </p>
 
+![linkedinbanner](https://media.licdn.com/dms/image/D4D16AQHhenRf2idxfQ/profile-displaybackgroundimage-shrink_350_1400/0/1701260560506?e=1706745600&v=beta&t=AY58sGfTxleJ_PKxEbLJxawx8-n9uLnSWkueNsCgWtU)
+
 <h1 align="center">Hi there👋, I'm Victor</h1>
 <h3 align="center">A (soon to be) full-stack developer from Brazil</h3>
 
