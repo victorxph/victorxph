@@ -3,15 +3,9 @@
 <h1 align="center">Hi there👋, I'm Victor</h1>
 <h3 align="center">A (soon to be) full-stack developer from Brazil</h3>
 
-![linkedinbanner](https://media.licdn.com/dms/image/D4D16AQHhenRf2idxfQ/profile-displaybackgroundimage-shrink_350_1400/0/1701260560506?e=1706745600&v=beta&t=AY58sGfTxleJ_PKxEbLJxawx8-n9uLnSWkueNsCgWtU)
-
-
-
 <br>
 
-<p>
-    🌱 I've been following <a href="https://www.theodinproject.com/" target="_blank" rel="external">The Odin Project</a> curriculum which is an open source project based course, along with the Systems Analysis and Development course in <a href="https://www.uninove.br/" target="blank" rel="external">college</a>.
-</p>
+- 🌱 I've been following <a href="https://www.theodinproject.com/" target="_blank" rel="external">The Odin Project</a> curriculum which is an open source project based course, along with the Systems Analysis and Development course in <a href="https://www.uninove.br/" target="blank" rel="external">college</a>.
 
 <div align="center" style=""><br><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
